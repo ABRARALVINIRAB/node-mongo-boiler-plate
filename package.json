@@ -1,7 +1,7 @@
 {
   "name": "node-express-boilerplate",
   "version": "1.0.0",
-  "author": "Ruhit Hassan",
+  "author": "Nirab",
   "description": "Backend APIs development with Node.js, Express.js and MongoDB",
   "main": "server.js",
   "license": "ISC",
